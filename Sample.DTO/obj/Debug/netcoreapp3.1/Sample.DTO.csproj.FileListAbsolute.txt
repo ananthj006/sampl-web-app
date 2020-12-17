@@ -1,0 +1,9 @@
+C:\Users\ananth.john\source\repos\Sample.Api\Sample.DTO\bin\Debug\netcoreapp3.1\Sample.DTO.deps.json
+C:\Users\ananth.john\source\repos\Sample.Api\Sample.DTO\bin\Debug\netcoreapp3.1\Sample.DTO.dll
+C:\Users\ananth.john\source\repos\Sample.Api\Sample.DTO\bin\Debug\netcoreapp3.1\Sample.DTO.pdb
+C:\Users\ananth.john\source\repos\Sample.Api\Sample.DTO\obj\Debug\netcoreapp3.1\Sample.DTO.csprojAssemblyReference.cache
+C:\Users\ananth.john\source\repos\Sample.Api\Sample.DTO\obj\Debug\netcoreapp3.1\Sample.DTO.AssemblyInfoInputs.cache
+C:\Users\ananth.john\source\repos\Sample.Api\Sample.DTO\obj\Debug\netcoreapp3.1\Sample.DTO.AssemblyInfo.cs
+C:\Users\ananth.john\source\repos\Sample.Api\Sample.DTO\obj\Debug\netcoreapp3.1\Sample.DTO.csproj.CoreCompileInputs.cache
+C:\Users\ananth.john\source\repos\Sample.Api\Sample.DTO\obj\Debug\netcoreapp3.1\Sample.DTO.dll
+C:\Users\ananth.john\source\repos\Sample.Api\Sample.DTO\obj\Debug\netcoreapp3.1\Sample.DTO.pdb
