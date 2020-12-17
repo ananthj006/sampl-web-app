@@ -27,7 +27,7 @@ namespace Sample.Api.Controllers
         }
 
         [HttpPut("{userId}")]
-        public ActionResult<int> PostUser(int userId, User user)
+        public ActionResult<int> PutUser(int userId, User user)
         {
             var updatedId = _userDomain.UpdateUser(userId, user);
 
